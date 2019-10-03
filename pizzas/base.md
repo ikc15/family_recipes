@@ -8,4 +8,5 @@
 - 2 cups water
 
 ## Steps
-- mix everything and go for it
+- mix everything
+- go for it
