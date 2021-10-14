@@ -1,7 +1,7 @@
 # Best pizza recipe
 
 # Ingredients
-- pizza base
+- pizza [base](base.md)
 - cheese
 - pineapple
 - anchovies
